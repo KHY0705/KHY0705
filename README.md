@@ -10,8 +10,6 @@
 - [그룹웨어] [HelloWorks](https://github.com/pastelto/HelloWorks.git)
 - [커뮤니티] [DOLIKE](https://github.com/pastelto/DOLIKE.git)
 
-*******
-
 🏷 Notion [HY의 노션](https://ivy-cough-855.notion.site/d0ee1eeb4ef74826b7c6760027e1f961])
 
 ✉ email : hyaa92@naver.com
