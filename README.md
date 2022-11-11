@@ -7,12 +7,11 @@
 - Database : Oracle DB
 - Tools : Eclips, VSCode
 
-
-
+<!--
 💎 **Project**
 - [그룹웨어] [HelloWorks](https://github.com/pastelto/HelloWorks.git)
 - [커뮤니티] [DOLIKE](https://github.com/pastelto/DOLIKE.git)
-
+-->
 <!--
 **KHY0705/KHY0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
