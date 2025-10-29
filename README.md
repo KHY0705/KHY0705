@@ -2,10 +2,9 @@
 
 
 🛠 **Skills**
-- Back-End : Java, Spring FrameWork, mybatis
-- Front-End : HTML, CSS, JavaScript, ajax
+- Back-End : Java, Spring
+- Front-End : JS, React
 - Database : Oracle DB
-- Tools : Eclips, VSCode
 
 <!--
 💎 **Project**
